@@ -1,5 +1,6 @@
 # Bike-Sharing Analysis
-[link to dashboard](https://public.tableau.com/profile/ebony7596#!/vizhome/Week_14_Challenge/CitibikeAnalysis)
+[View Dashboard](https://public.tableau.com/profile/ebony7596#!/vizhome/Week_14_Challenge/CitibikeAnalysis)
+
 We are considering opening a bike-share service in Des Moines, Iowa, similar that of Citibike in New York. As such, we have run an analysis on the more than 2.3 million rides taken in August 2019 using Citibike to determine whether it would be appropriate and profitable in Des Moines. Before going futher, it is worth noting that as this data is based on a single month, we should investigate other times of the year for further analyses. 
 
 ## Observations 
